@@ -1,0 +1,1 @@
+// Tu wpisz zawartość app.js – wcześniej była wklejona w Replit

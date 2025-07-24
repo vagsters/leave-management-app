@@ -1,0 +1,1 @@
+// Tu wpisz zawartość database.js – wcześniej była wklejona w Replit
